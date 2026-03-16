@@ -1,0 +1,5 @@
+{
+  "name": "ElectroMomentum",
+  "description": "A community-driven power outage reporting and restoration coordination platform where consumers can report cuts, describe weather conditions, and vote for restoration priority, while the electricity board monitors and manages the grid.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
